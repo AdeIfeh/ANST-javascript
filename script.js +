@@ -21,3 +21,4 @@ console.log("Modulus: " + num1 + " % " + num2 + " = " + modulus);
 //fs.writeFileSync('output.txt', output);
 
 //console.log('Results saved to output.txt');
+
